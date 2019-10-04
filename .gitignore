@@ -1,0 +1,13 @@
+.gradle/
+.idea/
+build/
+gradle/
+
+gradlew
+gradlew.bat
+
+/**/*.class
+/**/*.jar
+/**/*.zip
+
+*.txt
