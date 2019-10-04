@@ -1,0 +1,3 @@
+{ "ICE" : "%match%はすきだよ",
+  "CORA" : "%match%はイマイチ",
+  "ABC" : "%match%DEF"}
